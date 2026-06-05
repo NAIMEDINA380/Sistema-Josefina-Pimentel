@@ -1,18 +1,18 @@
 # Sistema Integral de Gestión U.E. "Josefina Pimentel"
 
-## Descripción
-Plataforma orientada a la optimización administrativa y académica. El sistema centraliza la operatividad de la institución para garantizar precisión en la nómina y control detallado en el expediente estudiantil.
+## Descripción General
+Plataforma orientada a la optimización administrativa y académica. El sistema centraliza la operatividad de la institución para garantizar la precisión en la nómina, el control detallado del expediente estudiantil y la eficiencia en la gestión institucional.
 
-## Lógica de Negocios
+## Objetivo Principal
+Institucionalizar un sistema de control unificado que garantice la integridad de los registros, reduzca la carga administrativa y mejore la calidad de la información para la toma de decisiones.
 
-### 1. Núcleo de Acceso
-Autenticación robusta basada en roles jerárquicos (Admin, Administrativo, Docente) para garantizar la trazabilidad de cada acción realizada dentro del sistema.
+## Usuarios Clave (Roles)
+* Administrador: Gestiona la configuración, los niveles de acceso y supervisa el cumplimiento de los procesos.
+* Personal Administrativo: Encargado de la gestión de nómina, control de asistencias y registros financieros.
+* Docente: Registra y consulta el rendimiento académico y los expedientes de los estudiantes a su cargo.
 
-### 2. Automatización de Nómina
-Cálculo dinámico de compensaciones y deducciones laborales. Permite la proyección de pagos y la emisión automática de recibos digitales, minimizando el error humano.
-
-### 3. Expediente Estudiantil Digital
-Repositorio centralizado con historial académico completo, registro de conducta y gestión documental, facilitando el seguimiento del rendimiento estudiantil en tiempo real.
-
-## Visión del Proyecto
-Desarrollar una herramienta escalable que reduzca la carga administrativa y mejore la calidad de la información institucional.
+## Funcionalidades Principales (Alcance)
+* Cálculo dinámico de compensaciones y deducciones laborales con emisión de recibos digitales.
+* Centralización de expedientes académicos con historial detallado de calificaciones y registro de conducta.
+* Generación automatizada de reportes y documentos institucionales.
+* Sistema de alertas para notificar sobre vencimientos de procesos administrativos y seguimiento académico.
